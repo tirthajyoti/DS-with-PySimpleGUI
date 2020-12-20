@@ -25,7 +25,7 @@ There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI 
 python SimpleDataFrame.py
 ```
 ### File browser
-This will show a file browser dialog first, 
+This will show a file browser dialog first. Make sure you select the correct dataset for this demo from under the `data` directory.
 
 ![browser](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-1.PNG)
 
