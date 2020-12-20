@@ -34,7 +34,7 @@ This will show a file browser dialog first. Make sure you select the correct dat
 ![browser](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-1.PNG)
 
 ### Prompts
-followed by other prompts,
+After you select the `cars.csv`, you will see other prompts popping up,
 
 ![prompts](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-6.png)
 ### Dataset
