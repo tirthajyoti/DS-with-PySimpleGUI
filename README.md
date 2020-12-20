@@ -42,7 +42,7 @@ After you close that window, a new popup will ask if you want to see the descrip
 
 ![stat](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-7.PNG)
 ### A plot
-After you close that window, another popup will ask if you want to see the a plot. If you click 'Yes', then you will see something like this,
+After you close that window, another popup will ask if you want to see a sample plot. If you click 'Yes', then you will see something like this,
 
 ![plot](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-8.PNG)
 ### Play with the notebooks if you like
