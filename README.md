@@ -1,6 +1,10 @@
 # DS-with-PySimpleGUI
 Data science GUI programs with awesome `PySimpleGUI` package.
 
+## What is `PySimpleGUI` and what is this repo?
+
+As per their website, ___"Python GUI For Humans - Transforms tkinter, Qt, Remi, WxPython into portable people-friendly Pythonic interfaces"___. In this repo, I specifically focus on creating simple demo programs related to data science (simple analytics, statistical modeling and visualizations, basic machine learning) using this powerful GUI building tool.
+
 ## Requirements
 
 Install `PySimpleGUI` by,
