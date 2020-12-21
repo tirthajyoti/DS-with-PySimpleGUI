@@ -61,6 +61,7 @@ If you want to experiment with the code, you can look at the Notebooks and play 
 ## Standalone windows app demo (`FontUpdate.py`)
 
 Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
+
 ![fontupdate](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/FontUpdate.gif)
 
 ## PySimpleGUI website
