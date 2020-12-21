@@ -31,11 +31,12 @@ figure_x, figure_y, figure_w, figure_h = fig1.bbox.bounds
 layout = [[sg.Text('Two bar charts', font='Times 18 bold')],
           [sg.Canvas(size=(figure_w, figure_h), key='-CANVAS-1')],
           [sg.Canvas(size=(figure_w, figure_h), key='-CANVAS-2')],
-          [sg.OK(pad=((figure_w / 2, 0), 3), size=(4, 2))]]
+          [sg.OK(pad=((0, 0), 3), size=(4, 2))]]
 
 # create the form and show it without the plot
 window = sg.Window('Demo Application - Embedding Matplotlib In PySimpleGUI',
-    layout, force_toplevel=True, finalize=True)
+    layout, force_toplevel=True, finalize=True,
+    element_justification='center',)
 
 # add the plot to the window
 fig_photo1 = draw_figure(window['-CANVAS-1'].TKCanvas, fig1)
