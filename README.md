@@ -22,6 +22,51 @@ You will also need,
 
 etc. to run the demo codes.
 
+## A very simple random integer generator GUI
+
+Here is the code to program this app,
+
+```
+import PySimpleGUI as sg
+import numpy as np
+
+# Update function
+def update():
+    r = np.random.randint(1,100)
+    text_elem = window['-text-']
+    text_elem.update("This is a random integer: {}".format(r))
+
+# Define the window's contents i.e. layout
+layout = [[sg.Button('Generate',enable_events=True, key='-FUNCTION-', font='Helvetica 16')],
+         [sg.Text('This is a random integer:', size=(25, 1), key='-text-', font='Helvetica 16')]]
+
+# Create the window
+window = sg.Window('Generate random integer', layout, size=(350,100))
+
+# Event loop
+while True:
+    event, values = window.read()
+    if event in (sg.WIN_CLOSED, 'Exit'):
+        break
+    if event == '-FUNCTION-':
+        update()
+
+# Close the window i.e. release resource
+window.close()
+```
+
+When you save this code in a Python script and run it, you will see a simple window pop up where you can click on a button to call the `update` function as many times as you want and generate a random integer between 1 and 99.
+
+![genrandom](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/GenRandom.gif)
+
+Although this is a very simple code, it features,
+
+- layout and a window
+- a button element which calls an external function (event)
+- the function updating a text element of the window object
+
+We can essentially follow the same path and add more layers of layout, events, logic, and widgets to make powerful data science apps.
+
 ## Demo of `SimpleDataFrame.py` (Pandas DataFrame app)
 
 There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI is to execute the .PY scripts, e.g.
