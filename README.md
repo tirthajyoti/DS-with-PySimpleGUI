@@ -67,6 +67,21 @@ Although this is a very simple code, it features,
 
 We can essentially follow the same path and add more layers of layout, events, logic, and widgets to make powerful data science apps.
 
+---
+
+## App to show other widgets (`FontUpdate.py`)
+
+Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
+
+![fontupdate](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/FontUpdate.gif)
+
+This app gets you familiar with other widgets available,
+
+- slider
+- checkboxes
+
+---
+
 ## Demo of `SimpleDataFrame.py` (Pandas DataFrame app)
 
 There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI is to execute the .PY scripts, e.g.
@@ -103,11 +118,7 @@ After you close that window, another popup will ask if you want to see a sample 
 ### Play with the notebooks if you like
 If you want to experiment with the code, you can look at the Notebooks and play with them.
 
-## Standalone windows app demo (`FontUpdate.py`)
-
-Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
-
-![fontupdate](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/FontUpdate.gif)
+---
 
 ## PySimpleGUI website
 
@@ -116,4 +127,3 @@ Just run with `python FontUpdate.py` command and you will see this window pop up
 [Github repo](https://github.com/PySimpleGUI/PySimpleGUI)
 
 [Cool demos](https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms)
-
