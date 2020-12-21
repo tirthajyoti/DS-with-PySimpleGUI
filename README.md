@@ -32,6 +32,8 @@ python SimpleDataFrame.py
 ### Input file
 At the start, it will ask you for a dataset file (a CSV)
 
+![input](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-0.PNG)
+
 ### File browser
 When you click on the 'Browse' button, it will show a file browser dialog first. Make sure you select the correct dataset for this demo from under the `data` directory.
 
