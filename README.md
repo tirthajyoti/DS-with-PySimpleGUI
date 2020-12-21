@@ -28,8 +28,12 @@ There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI 
 ```
 python SimpleDataFrame.py
 ```
+
+### Input file
+At the start, it will ask you for a dataset file (a CSV)
+
 ### File browser
-This will show a file browser dialog first. Make sure you select the correct dataset for this demo from under the `data` directory.
+When you click on the 'Browse' button, it will show a file browser dialog first. Make sure you select the correct dataset for this demo from under the `data` directory.
 
 ![browser](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-1.PNG)
 
