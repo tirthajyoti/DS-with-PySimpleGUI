@@ -61,7 +61,7 @@ When you save this code in a Python script and run it, you will see a simple win
 
 Although this is a very simple code, it features,
 
-- layout and a window
+- layout (with styling arguments e.g. `size` and `font`) and a window
 - a button element which calls an external function (event)
 - the function updating a text element of the window object
 
