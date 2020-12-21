@@ -22,7 +22,7 @@ You will also need,
 
 etc. to run the demo codes.
 
-## Demo (how to run)
+## Demo of `SimpleDataFrame.py` (Pandas DataFrame app)
 
 There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI is to execute the .PY scripts, e.g.
 ```
@@ -57,6 +57,11 @@ After you close that window, another popup will ask if you want to see a sample 
 ![plot](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-8.PNG)
 ### Play with the notebooks if you like
 If you want to experiment with the code, you can look at the Notebooks and play with them.
+
+## Standalone windows app demo (`FontUpdate.py`)
+
+Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
+![fontupdate](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/FontUpdate.gif)
 
 ## PySimpleGUI website
 
