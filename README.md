@@ -1,7 +1,10 @@
 # DS-with-PySimpleGUI
-(## [Dr. Tirthajyoti Sarkar](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/), Fremont, CA)
+
+## [Dr. Tirthajyoti Sarkar](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/), Fremont, CA
 
 Data science GUI programs with awesome `PySimpleGUI` package.
+
+---
 
 ## What is `PySimpleGUI` and what is this repo?
 
