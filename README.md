@@ -140,3 +140,11 @@ A simple 2nd degree polynomial fitting app wher you can adjust the noise level o
 [Github repo](https://github.com/PySimpleGUI/PySimpleGUI)
 
 [Cool demos](https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms)
+
+## Use Qt Designer to build complex forms
+
+Qt Desginer is a popular visual aid for building complex forms for Python GUI programming. You can build PySimpleGUI comppatible code with Qt Designer by using an intermediary - [`PySimpleGUIDesigner`](https://github.com/nngogol/PySimpleGUIDesigner).
+
+Here is the Github for that program.
+
+And, here is an [YouTube tutorial](https://www.youtube.com/watch?v=dN7gXwnNoBA) on how to use it.
