@@ -133,6 +133,14 @@ A simple 2nd degree polynomial fitting app wher you can adjust the noise level o
 
 ---
 
+## [A Scikit-learn model fitting example](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/PimaPrediction.py)
+
+We build a simple app which lets you load the [Pima Indians diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database) dataset and fit a Random Forest model to this data using Scikit-learn in the background.
+
+![pima](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/Pima-Prediction.gif)
+
+---
+
 ## PySimpleGUI website
 
 [Read the docs here](https://pysimplegui.readthedocs.io/en/latest/)
