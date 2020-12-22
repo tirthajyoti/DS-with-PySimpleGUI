@@ -22,7 +22,7 @@ You will also need,
 
 etc. to run the demo codes.
 
-## A very simple random integer generator GUI
+## A very simple [random integer generator app](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/GenRandom.py)
 
 Here is the code to program this app,
 
@@ -69,7 +69,7 @@ We can essentially follow the same path and add more layers of layout, events, l
 
 ---
 
-## App to show other widgets (`FontUpdate.py`)
+## [App to show other widgets](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/FontUpdate.py) (`FontUpdate.py`)
 
 Just run with `python FontUpdate.py` command and you will see this window pop up where you can dynamically update the font of the text. Here is the demo video,
 
@@ -82,7 +82,7 @@ This app gets you familiar with other widgets available,
 
 ---
 
-## Demo of `SimpleDataFrame.py` (Pandas DataFrame app)
+## Demo of `SimpleDataFrame.py` ([Pandas DataFrame app](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/SimpleDataFrame.py))
 
 There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI is to execute the .PY scripts, e.g.
 ```
@@ -117,6 +117,14 @@ After you close that window, another popup will ask if you want to see a sample 
 ![plot](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/SimpleDataFrame-8.PNG)
 ### Play with the notebooks if you like
 If you want to experiment with the code, you can look at the Notebooks and play with them.
+
+---
+
+## [Polynomial fitting](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/PolyFit.py)
+
+A simple 2nd degree polynomial fitting app wher you can adjust the noise level of the randomly generated data.
+
+![polyfit](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/PolyFitting.gif)
 
 ---
 
