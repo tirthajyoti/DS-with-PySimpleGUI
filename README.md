@@ -60,7 +60,7 @@ while True:
 window.close()
 ```
 
-When you save this code in a Python script and run it, you will see a simple window pop up where you can click on a button to call the `update` function as many times as you want and generate a random integer between 1 and 99.
+When you save this code in a Python script and run it, you will see a simple window pop up where you can click on a button to call the `update` function as many times as you want (note the `while True` loop in the code for this infinite loop action) and generate a random integer between 1 and 99.
 
 ![genrandom](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/GenRandom.gif)
 
