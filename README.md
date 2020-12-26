@@ -125,6 +125,14 @@ If you want to experiment with the code, you can look at the Notebooks and play 
 
 ---
 
+## [Random scatter plots](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/DrawRandom.py)
+
+Generate as many random scatter plots as you wish.
+
+![drawrandom](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/DrawRandom.gif)
+
+---
+
 ## [Polynomial fitting](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/PolyFit.py)
 
 A simple 2nd degree polynomial fitting app wher you can adjust the noise level of the randomly generated data.
