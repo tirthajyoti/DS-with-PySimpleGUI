@@ -87,6 +87,14 @@ This app gets you familiar with other widgets available,
 
 ---
 
+## [A quadratic equation solver](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/QuadraticEquation.py)
+
+Just run with `python QuadraticEquation.py` command and you will see this window pop up where you can enter coefficients of a quadratic equation and get the solution (even if the roots turn out to be complex numbers!)
+
+![quadratic](https://raw.githubusercontent.com/tirthajyoti/DS-with-PySimpleGUI/main/images/QuadraticEquation.PNG)
+
+---
+
 ## Demo of `SimpleDataFrame.py` ([Pandas DataFrame app](https://github.com/tirthajyoti/DS-with-PySimpleGUI/blob/main/SimpleDataFrame.py))
 
 There are both Jupyter notebooks and .PY scripts. The simplest way to run a GUI is to execute the .PY scripts, e.g.
